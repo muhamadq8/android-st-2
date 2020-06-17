@@ -1,0 +1,3 @@
+;int : int x = 3
+;double : int x = 3.5
+char : int x = 95
